@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/51/35/6d/51356d442865fb27a246f9e685257d80.jpg');
+   }
+  h1 {
+    text-align: center;
+  }
+  h3 {
+    text-decoration: underline;
+  }
+  h3:hover {
+    color: grey;
+  }
+  h4 {
+    text-align: right
+  }
+  h4:hover {
+    color: grey;
+  }
+  h5:hover {
+    color: grey;
+  }
